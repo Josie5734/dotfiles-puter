@@ -2,9 +2,7 @@
 
 # Archived!
 
-this repo is in the process of being archived
-I have switched my pc to NixOS (with a separate repo)
-and the laptop will be retired in the coming months
+this repo is archived and will not be updated. Originally this was because i moved to NixOS, however i have since moved back to Arch but with a different setup that was not compatible with this repo
 
 ---
 
